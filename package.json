@@ -2,7 +2,7 @@
   "name": "react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://diana4391.github.io/react-app"package.json
+  "homepage": "https://diana4391.github.io/react-app/package.json
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
