@@ -1,4 +1,4 @@
-# Rise Landing
+# react-app
 
 A React landing page application deployed to GitHub Pages.
 
